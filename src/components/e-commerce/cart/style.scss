@@ -1,0 +1,21 @@
+.cart_container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .Card {
+    width: 100%;
+  }
+}
+
+.empty_cart {
+  width: 100%;
+  text-align: center;
+}
+
+.cart_img {
+  padding: 10px;
+  width: 300px;
+  max-height: 150px;
+}

@@ -1,0 +1,19 @@
+.order_container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .Card {
+    width: 100%;
+  }
+}
+
+.empty_order {
+  width: 100%;
+  text-align: center;
+}
+
+.Card {
+  margin-bottom: 10px;
+}

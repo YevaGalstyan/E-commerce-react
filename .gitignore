@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules
+
+# Production build directory
+/build
+
+# Environment variables file
+.env
+
+# IDE and editor files
+/.idea
+/.vscode
+
+# Compiled files
+*.log
+*.gz
+*.zip
+*.tar
+*.rar
+
+# OS generated files
+.DS_Store
+Thumbs.db
